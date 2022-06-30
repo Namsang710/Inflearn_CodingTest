@@ -13,7 +13,6 @@ public class Problem5 {
         int lp = 0, rp = chArray.length - 1;
 
         while(true){
-
             if (lp > rp)
                 break;
 
