@@ -14,6 +14,7 @@ public class Problem12 {
         ArrayList<String> secrets = new ArrayList();
 
 
+
         for(int i=0; i<input.length(); i+= input.length() / size){
             String str = input.substring(i, i + input.length() / size);
             secrets.add(str);
