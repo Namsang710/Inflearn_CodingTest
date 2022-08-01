@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Problem4 {
-    public static void main(String[] args) {
+    public int solution(String[] args) {
         Scanner s = new Scanner(System.in);
 
         String str = s.next();
@@ -38,6 +38,6 @@ public class Problem4 {
             lt++;
         }
 
-        System.out.println(answer);
+        return answer;
     }
 }
