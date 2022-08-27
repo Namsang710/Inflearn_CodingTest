@@ -7,5 +7,8 @@ public class Main {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
 
+
+
+        int k = s.nextInt();
     }
 }
