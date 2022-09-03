@@ -7,6 +7,6 @@ public class Main {
         Scanner s = new Scanner(System.in);
 
         int n = s.nextInt();
-
+        // 아 하기 싫어ㅓ
     }
 }
