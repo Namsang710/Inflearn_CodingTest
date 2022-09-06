@@ -7,6 +7,8 @@ public class Main {
         Scanner s = new Scanner(System.in);
 
         int n = s.nextInt();
-        // 아 하기 싫어ㅓ
+
+        // 내일부터 문제 꼭 풀자.. 야매 github 그만
+
     }
 }
