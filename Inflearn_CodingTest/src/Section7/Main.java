@@ -9,6 +9,6 @@ public class Main {
         int n = s.nextInt();
 
         // 내일부터 문제 꼭 풀자.. 야매 github 그만
-
+        // 졸려
     }
 }
