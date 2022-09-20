@@ -2,7 +2,7 @@ package Section7;
 
 import java.util.Scanner;
 
-public class Main {
+public class Problem3 {
     public void solution() {
         Scanner s = new Scanner(System.in);
 
