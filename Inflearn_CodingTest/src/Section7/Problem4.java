@@ -19,7 +19,7 @@ public class Problem4 {
     }
 
     public int DFS(int n){
-
+        if(fibo[n] > 0) return fibo[n];
         if (n == 1) return fibo[n] = 1;
         else if (n == 2) return fibo[n] = 1;
         else{
