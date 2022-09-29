@@ -2,7 +2,7 @@ package Section7;
 
 public class Problem5 {
     Node root;
-    public static void main(String[] args) {
+    public void solution() {
         Problem5 tree = new Problem5();
         tree.root = new Node(1);
         tree.root.lt = new Node(2);
