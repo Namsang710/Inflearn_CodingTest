@@ -2,6 +2,7 @@ package baekjoon.dynamic;
 
 import java.util.Scanner;
 
+// 알고리즘 수업 - 피보나치 수 1
 public class Problem1 {
     static long[] fibo;
 

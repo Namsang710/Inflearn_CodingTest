@@ -2,6 +2,7 @@ package baekjoon.recursive;
 
 import java.util.Scanner;
 
+// 피보나치 수 5
 public class Problem2 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

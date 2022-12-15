@@ -2,6 +2,7 @@ package baekjoon.bruteforce;
 
 import java.util.Scanner;
 
+// 영화감독 숌
 public class Problem5 {
     public void solution(){
         Scanner sc = new Scanner(System.in);

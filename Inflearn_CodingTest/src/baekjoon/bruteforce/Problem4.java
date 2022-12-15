@@ -2,6 +2,7 @@ package baekjoon.bruteforce;
 
 import java.util.Scanner;
 
+// 체스판 다시 칠하기
 public class Problem4 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

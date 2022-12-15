@@ -2,6 +2,7 @@ package baekjoon.recursive;
 
 import java.util.Scanner;
 
+// 재귀의 귀재
 public class Problem3 {
     static int cnt = 0;
     public void solution() {

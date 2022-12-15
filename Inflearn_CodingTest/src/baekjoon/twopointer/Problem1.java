@@ -3,6 +3,7 @@ package baekjoon.twopointer;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// 두 수의 합
 public class Problem1 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

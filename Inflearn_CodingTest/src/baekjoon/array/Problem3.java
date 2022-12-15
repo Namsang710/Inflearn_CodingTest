@@ -2,6 +2,7 @@ package baekjoon.array;
 
 import java.util.Scanner;
 
+// 색종이
 public class Problem3 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

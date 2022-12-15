@@ -3,6 +3,7 @@ package baekjoon.setandmap;
 import java.util.HashSet;
 import java.util.Scanner;
 
+// 숫자 카드
 public class Problem1 {
     public void solution(){
         Scanner sc = new Scanner(System.in);

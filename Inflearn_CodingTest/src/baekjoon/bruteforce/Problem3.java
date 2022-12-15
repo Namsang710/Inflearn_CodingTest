@@ -2,6 +2,7 @@ package baekjoon.bruteforce;
 
 import java.util.Scanner;
 
+// 덩치
 public class Problem3 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

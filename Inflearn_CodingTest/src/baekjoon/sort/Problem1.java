@@ -2,6 +2,7 @@ package baekjoon.sort;
 
 import java.util.Scanner;
 
+// 수 정렬하기
 public class Problem1 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

@@ -3,6 +3,7 @@ package baekjoon.setandmap;
 import java.util.HashSet;
 import java.util.Scanner;
 
+// 문자열 집합
 public class Problem2 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

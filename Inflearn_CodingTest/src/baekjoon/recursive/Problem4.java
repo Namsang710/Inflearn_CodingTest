@@ -2,6 +2,7 @@ package baekjoon.recursive;
 
 import java.util.Scanner;
 
+// 별 찍기 - 10
 public class Problem4 {
     static char arr[][];
 

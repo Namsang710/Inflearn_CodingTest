@@ -2,6 +2,7 @@ package baekjoon.sort;
 
 import java.util.Scanner;
 
+// 커트라인
 public class Problem3 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

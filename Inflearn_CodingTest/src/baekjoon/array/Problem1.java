@@ -2,6 +2,7 @@ package baekjoon.array;
 
 import java.util.Scanner;
 
+// 행렬 덧셈
 public class Problem1 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

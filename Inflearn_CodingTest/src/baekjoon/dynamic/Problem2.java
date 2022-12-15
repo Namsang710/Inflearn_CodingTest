@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 신나는 함수 실행
 public class Problem2 {
 
     public static long[][][] arr = new long[21][21][21];

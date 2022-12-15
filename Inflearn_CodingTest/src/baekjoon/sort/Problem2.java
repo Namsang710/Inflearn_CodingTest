@@ -3,6 +3,7 @@ package baekjoon.sort;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// 대표값2
 public class Problem2 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

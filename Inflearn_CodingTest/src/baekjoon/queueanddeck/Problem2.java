@@ -4,6 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+// 카드2
 public class Problem2 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

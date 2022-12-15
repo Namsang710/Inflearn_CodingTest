@@ -2,6 +2,7 @@ package baekjoon.bruteforce;
 
 import java.util.Scanner;
 
+// 분해합
 public class Problem2 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

@@ -2,6 +2,7 @@ package baekjoon.math;
 
 import java.util.Scanner;
 
+// ACM 호텔
 public class Problem3 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

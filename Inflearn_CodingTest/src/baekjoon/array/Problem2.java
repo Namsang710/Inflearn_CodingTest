@@ -2,6 +2,7 @@ package baekjoon.array;
 
 import java.util.Scanner;
 
+// 최댓값
 public class Problem2 {
     public void solution(){
         Scanner sc = new Scanner(System.in);

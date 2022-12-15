@@ -3,6 +3,7 @@ package baekjoon.twopointer;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// 소수의 연속합
 public class Problem4 {
     public void solution() {
         Scanner sc = new Scanner(System.in);

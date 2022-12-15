@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
+// 나는야 포켓몬 마스터 이다솜
 public class Problem3 {
     public void solution() throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
